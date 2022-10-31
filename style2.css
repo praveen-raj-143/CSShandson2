@@ -1,0 +1,220 @@
+*{
+	margin: 0;
+	
+}
+.text1{
+
+				background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-simple-atmospheric-black-and-white-restaurant-menu-poster-background-picture-image_1112465.jpg);
+
+				border: 7px;
+				border-color: greenyellow;
+				border-style: groove;
+	    }
+.text2{
+	font-style: italic ;
+	text-align: center;
+	color: white;
+	box-sizing: content-box;
+	width: 366px;
+	height: 109px;
+	font-size: 30px;
+	border: 7px;
+	border-radius: 20px 20px 20px 20px;
+	border-style: solid;
+	border-color: red;
+	background-color: black;
+	position: relative;
+	top: 40px;
+	left: 40px;
+
+
+}		
+.text3{
+	font-style: italic ;
+	color: white;
+	font-size: 30px;	
+	box-sizing: content-box;
+	width: 500px;
+	height: 60px;
+	border: 7px;
+	border-radius: 30px 30px 30px 30px;
+	border-color: red;
+	border-style: solid;		
+	background-color: black;
+	text-align: center;
+	position: relative;
+	top: -70px;
+	left: 270px;
+}
+.text4{
+	text-align: center;
+	font-style: italic ;
+	color: white;
+	font-size: 30px;
+	border: 7px;
+	border-radius: 50px 50px 50px 50px;
+	border-style: solid;
+	border-color: red;
+	box-sizing: content-box;
+	width: 440px;
+	height: 190px;
+	font-size: 30px;
+	background-color: black;
+	margin-top: -168px;
+	margin-left: 820px;
+
+}
+.text5{
+	color: red;
+	border: 6px;
+	border-style: dashed;
+	border-color: red;
+	background-color: white;
+	opacity: 0.7;
+	text-align: center;
+	box-sizing: content-box;
+	width: 340px;
+	height: 720px;
+	font-size: 20px;
+	margin-top: 85px;
+	margin-left: 700px;
+	
+}
+.text6{
+	text-align: center;
+	font-style: italic ;
+	color: black;
+	font-size: small;
+	font-weight: bold;
+	border: 8px;
+	border-radius: 50% ;
+	border-style: solid;
+	border-color: grey;
+	box-sizing: content-box;
+	width: 400px;
+	height: 400px;
+	font-size: 30px;
+	background-color: #25b586;
+	margin-top: -485px;
+	margin-left: 100px;
+	text-decoration: underline;
+	
+}
+.text7{
+	font-style: italic ;
+	color: white;
+	font-size: 30px;	
+	box-sizing: content-box;
+	width: 500px;
+	height: 60px;
+	border: 8px;
+	border-radius: 30px 30px 30px 30px;
+	border-color: red;
+	border-style: solid;		
+	background-color: black;
+	text-align: center;
+	margin-top: 120px;
+	margin-left: 405px;
+}
+.box1{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+	margin-left: 50px;
+	
+}
+.box2{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+	margin-top: -330px;
+	margin-left: 490px;
+	
+}
+.box3{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+	margin-top: -330px;
+	margin-left: 945px;
+	
+}
+.box4{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+
+	margin-top: 80px;
+	margin-left: 50px;
+	
+}
+.box5{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+	margin-top: -330px;
+	margin-left: 490px;
+	
+}
+.box6{
+	text-align: center;
+	font-style:  ;
+	color: blueviolet;	
+	border: 3px;
+	border-radius: 40px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	box-sizing: content-box;
+	width: 325px;
+	height: 325px;
+	font-size: 24px;
+	background-color: aqua;
+	margin-top: -330px;
+	margin-left: 945px;
+	
+}
